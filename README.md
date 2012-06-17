@@ -8,7 +8,7 @@ The Source codes contained here are:
 *mto.cmto.c
 *zombie-attack.c
 *Integracion-Numerica-ODE.pdf - (licensed under a Creative Commons Atribución-NoComercial-CompartirDerivadasIgual)
- 3.0 Unported}} License.
+ 3.0 Unported License.
 
 The Name "ODE-Seminar" stands for all and each of the files above (and it's contents)
 
